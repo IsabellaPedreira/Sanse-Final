@@ -19,6 +19,160 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/deploy/img/la Peral-highres.jpg": {
+		"ft": 16384,
+		"iS": 311388,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/la Peral-highres.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/Palomas-highres.jpg": {
+		"ft": 16384,
+		"iS": 3247577,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/Palomas-highres.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/Parque-Barandilla-googlemaps copy.png": {
+		"ft": 32768,
+		"iS": 181676,
+		"oA": 0,
+		"oAP": "/deploy/img/Parque-Barandilla-googlemaps copy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/Parque-Barandilla-googlemaps.png": {
+		"ft": 32768,
+		"iS": 124048,
+		"oA": 0,
+		"oAP": "/deploy/img/Parque-Barandilla-googlemaps.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/ParquePalomas-maps copy.png": {
+		"ft": 32768,
+		"iS": 145733,
+		"oA": 0,
+		"oAP": "/deploy/img/ParquePalomas-maps copy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/ParquePalomas-maps.png": {
+		"ft": 32768,
+		"iS": 145526,
+		"oA": 0,
+		"oAP": "/deploy/img/ParquePalomas-maps.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/Plaza-colon-googlemaps copy.png": {
+		"ft": 32768,
+		"iS": 160281,
+		"oA": 0,
+		"oAP": "/deploy/img/Plaza-colon-googlemaps copy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/Plaza-colon-googlemaps.png": {
+		"ft": 32768,
+		"iS": 115223,
+		"oA": 0,
+		"oAP": "/deploy/img/Plaza-colon-googlemaps.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/PlazaColon-highres.jpg": {
+		"ft": 16384,
+		"iS": 267218,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/PlazaColon-highres.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-1/Fiestas-logo copy.png": {
+		"ft": 32768,
+		"iS": 207164,
+		"oA": 0,
+		"oAP": "/deploy/img/section-1/Fiestas-logo copy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-2/calendar.png": {
+		"ft": 32768,
+		"iS": 41356,
+		"oA": 0,
+		"oAP": "/deploy/img/section-2/calendar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-5/Barandilla-highres.jpg": {
+		"ft": 16384,
+		"iS": 400861,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/Barandilla-highres.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-7/de-Armas-googlemaps.png": {
+		"ft": 32768,
+		"iS": 120579,
+		"oA": 0,
+		"oAP": "/deploy/img/section-7/de-Armas-googlemaps.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-7/de-Armas-highres.jpg": {
+		"ft": 16384,
+		"iS": 215870,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-7/de-Armas-highres.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/deploy/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -37,6 +191,14 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/dev/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dev/index.html",
+		"oF": 0
 		},
 	"/dev/index.kit": {
 		"cB": 0,
