@@ -19,11 +19,11 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/img/section-1/Fiestas-logo copy.png": {
+	"/deploy/img/section-1/Fiestas-logo.png": {
 		"ft": 32768,
 		"iS": 207164,
 		"oA": 0,
-		"oAP": "/deploy/img/section-1/Fiestas-logo copy.png",
+		"oAP": "/deploy/img/section-1/Fiestas-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -52,56 +52,56 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/deploy/img/section-4/Plaza-colon-googlemaps copy.png": {
+	"/deploy/img/section-4/Colon-googlemaps.png": {
 		"ft": 32768,
 		"iS": 160281,
 		"oA": 0,
-		"oAP": "/deploy/img/section-4/Plaza-colon-googlemaps copy.png",
+		"oAP": "/deploy/img/section-4/Colon-googlemaps.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/deploy/img/section-4/PlazaColon-highres.jpg": {
+	"/deploy/img/section-4/PlazaColon.jpg": {
 		"ft": 16384,
 		"iS": 267218,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-4/PlazaColon-highres.jpg",
+		"oAP": "/deploy/img/section-4/PlazaColon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-5/Barandilla-highres.jpg": {
-		"ft": 16384,
-		"iS": 400861,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/deploy/img/section-5/Barandilla-highres.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/deploy/img/section-5/Parque-Barandilla-googlemaps copy.png": {
+	"/deploy/img/section-5/Barandilla-googlemaps.png": {
 		"ft": 32768,
 		"iS": 181676,
 		"oA": 0,
-		"oAP": "/deploy/img/section-5/Parque-Barandilla-googlemaps copy.png",
+		"oAP": "/deploy/img/section-5/Barandilla-googlemaps.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/deploy/img/section-6/Palomas-highres.jpg": {
+	"/deploy/img/section-5/Barandilla.jpg": {
+		"ft": 16384,
+		"iS": 400861,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/Barandilla.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-6/Palomas.jpg": {
 		"ft": 16384,
 		"iS": 3247577,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-6/Palomas-highres.jpg",
+		"oAP": "/deploy/img/section-6/Palomas.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -129,23 +129,23 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/deploy/img/section-7/de-Armas-highres.jpg": {
+	"/deploy/img/section-7/de-Armas.jpg": {
 		"ft": 16384,
 		"iS": 215870,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-7/de-Armas-highres.jpg",
+		"oAP": "/deploy/img/section-7/de-Armas.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-8/la Peral-highres.jpg": {
+	"/deploy/img/section-8/La-Perla.jpg": {
 		"ft": 16384,
 		"iS": 311388,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-8/la Peral-highres.jpg",
+		"oAP": "/deploy/img/section-8/La-Perla.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
