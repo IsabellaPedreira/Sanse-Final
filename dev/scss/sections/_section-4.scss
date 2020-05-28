@@ -2,15 +2,11 @@
     Section 4
 ============= */
 
-#section-4 {
+#section-4-text {
 	background-color: $turquesa;
+}
 
-
-
-
-
-
-
+#section-4{
 	background-image: url("../img/section-4/PlazaColon.jpg");
 	background-position: center;
 	background-size: cover;
@@ -30,3 +26,26 @@
 		grid-template-columns: auto 850px auto;
 		padding: 165px 0 200px;
 	}
+	ul{
+		background-image: url("../img/section-4/PlazaColon.jpg");
+		background-position: center;
+		background-size: cover;
+		background-color: rgba(0,0,0,.5); // Tint color
+		background-blend-mode: multiply;
+	}
+}
+
+#wednesday{
+	background-color: $turquesa;
+	align-items: center;
+	display: flex;
+	height: 80px;
+	justify-content: center;
+	margin: 163px auto 0;
+	width: 80px;
+}
+
+
+
+
+
