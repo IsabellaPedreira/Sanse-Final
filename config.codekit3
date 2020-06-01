@@ -441,16 +441,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/dev/scss/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/dev/scss/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/dev/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -527,6 +517,16 @@
 		"oA": 1,
 		"oAP": "/dev/section-8.html",
 		"oF": 0
+		},
+	"/dev/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/dev/styles-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/README.md": {
 		"cB": 0,
