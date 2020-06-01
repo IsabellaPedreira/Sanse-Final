@@ -26,12 +26,14 @@
 		grid-template-columns: auto 850px auto;
 		padding: 165px 0 200px;
 	}
+	
 	ul{
 		background-image: url("../img/section-4/PlazaColon.jpg");
 		background-position: center;
 		background-size: cover;
 		background-color: rgba(0,0,0,.5); // Tint color
 		background-blend-mode: multiply;
+		color: $turquesa;
 	}
 }
 

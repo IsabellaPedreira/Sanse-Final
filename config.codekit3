@@ -253,6 +253,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/deploy/css/scss/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/deploy/css/scss/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/deploy/css/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -265,16 +275,6 @@
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
-		},
-	"/deploy/css/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/deploy/css/styles-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"/deploy/img/section-1/Fiestas-logo.png": {
 		"ft": 32768,
