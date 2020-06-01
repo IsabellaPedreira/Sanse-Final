@@ -175,8 +175,8 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dev/index.html",
-		"oF": 0
+		"oAP": "/deploy/index.html",
+		"oF": 2
 		},
 	"/dev/index.kit": {
 		"cB": 0,
@@ -430,6 +430,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/dev/scss/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/dev/scss/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/dev/scss/styles.css": {
 		"aP": 1,
