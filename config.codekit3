@@ -408,6 +408,14 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/deploy/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/deploy/index.html",
+		"oF": 2
+		},
 	"/deploy/js/scripts-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -418,14 +426,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/dev/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/deploy/index.html",
-		"oF": 2
 		},
 	"/dev/index.kit": {
 		"cB": 0,
