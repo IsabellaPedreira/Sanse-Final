@@ -30,8 +30,7 @@ html {
 body {
   margin: 0;
   background-color: black;
-  color: white; 
-}
+  color: white; }
 
 /**
  * Render the `main` element consistently in IE.
