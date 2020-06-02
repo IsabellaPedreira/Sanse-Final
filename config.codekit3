@@ -317,6 +317,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/deploy/section-3/calendar.png": {
+		"ft": 32768,
+		"iS": 41356,
+		"oA": 0,
+		"oAP": "/deploy/section-3/calendar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/deploy/section-3/vejigantes.png": {
 		"ft": 32768,
 		"iS": 275077,
