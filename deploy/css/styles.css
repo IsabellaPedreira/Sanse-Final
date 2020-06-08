@@ -27,6 +27,8 @@ html {
 /**
  * Remove the margin in all browsers.
  */
+
+ 
 body {
   margin: 0;
   background-color: black;
@@ -45,6 +47,10 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
+
+h5 {
+    
+    margin: 0.67em 0; }
 
 /* Grouping content
    ========================================================================== */

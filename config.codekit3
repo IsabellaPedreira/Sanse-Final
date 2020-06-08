@@ -253,16 +253,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/css/scss/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/deploy/css/scss/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/deploy/css/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -275,6 +265,48 @@
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
+		},
+	"/deploy/css/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/deploy/css/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/deploy/css/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/deploy/css/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/deploy/img/section-4/Colon-googlemaps.png": {
+		"ft": 32768,
+		"iS": 160281,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/Colon-googlemaps.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-4/PlazaColon.jpg": {
+		"ft": 16384,
+		"iS": 267218,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/PlazaColon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/deploy/index.html": {
 		"cB": 0,
@@ -306,11 +338,22 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/deploy/section-2/calendar.png": {
+	"/deploy/section-1/vejigantes.png": {
+		"ft": 32768,
+		"iS": 275077,
+		"oA": 0,
+		"oAP": "/deploy/section-1/vejigantes.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/section-2/calender.png": {
 		"ft": 32768,
 		"iS": 41356,
 		"oA": 0,
-		"oAP": "/deploy/section-2/calendar.png",
+		"oAP": "/deploy/section-2/calender.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -322,17 +365,6 @@
 		"iS": 41356,
 		"oA": 0,
 		"oAP": "/deploy/section-3/calendar.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/deploy/section-3/vejigantes.png": {
-		"ft": 32768,
-		"iS": 275077,
-		"oA": 0,
-		"oAP": "/deploy/section-3/vejigantes.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
